@@ -1,0 +1,57 @@
+{
+    "intents":[
+        {
+            "tag":"register",
+            "patterns":[
+                "I want to register a new complaint",
+                "I have problems realted to my electricity bill",
+                "I want to register complaint regarding land allotment",
+                "problem", "complaint",
+                "I am facing problems",
+                "how can I file a complaint?"
+            ]
+        },
+
+        {
+            "tag":"status",
+            "patterns":[
+                "I filed a complaint few days ago",
+                "I want to know my complaint status",
+                "complaint status",
+                "grievance status",
+                "I want to know if my problem has been resolved",
+                "no response till now regarding my complaint"
+            ]
+        },
+
+        {
+            "tag":"reminder",
+            "patterns":[
+                "I want to set reminder of my complaint",
+                "I registered a complaint, want to set a reminder",
+                "reminder",
+                "a long time has passed please resolve my issue",
+                "Resolve my complaint as soon as possible"
+            ]
+        },
+        {
+            "tag": "greeting",
+            "patterns": [
+              "Hi",
+              "Hey",
+              "How are you",
+              "Is anyone there?",
+              "Hello",
+              "Good day"
+            ]
+        },
+        {
+            "tag": "goodbye",
+            "patterns": ["Bye", "See you later", "Goodbye"]
+        },
+        {
+            "tag": "thanks",
+            "patterns": ["Thanks","no thanks", "Thank you", "That's helpful", "Thank's a lot!"]
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+  "intents": [
+    {
+      "tag": "Ayurveda",
+      "patterns": [
+        "complaint regarding corruption and irregularity"
+      ]
+    },
+    {
+      "tag": "Collectrate Ajmer",
+      "patterns": [
+        "Request regarding temple construction.Work has been delayed a lot,please do something."
+        
+      ]
+    },
+    {
+      "tag": "Collectorate Bikaner",
+      "patterns": [
+        "Inappropriate behaviour by police porsennel " ,
+        "Regarding land distribution",
+        "Money deposited in shield bid allotment but no further action taken",
+        "Light bill correction",
+        "High Electricity bill",
+        "electricity bill sent without meter"
+      ]
+    },
+    {
+      "tag": "Labour",
+      "patterns": [
+        "pending pension payment from1 November 2009 to 30 september 2011"
+      ]
+    },
+    {
+      "tag": "Secondary Education",
+      "patterns": [
+        "To appoint teachers in government secondary school",
+        "Vaccant teacher position in govt secondary school",
+        "My village have a Sr. secondary school with the three subject in class 11th and 12th e.i. Arts, commerce and science but there is no any subject lecturer and nor a principal last three years. there is total 21 posts are sectioned of all type of teachers but only 04 teachers are posted. villagers and gram sarpanch are requested to all concerned officers and departments . pl see personally. maters most urgent."
+      ]
+    },
+    {
+      "tag": "Rural Development Raj",
+      "patterns": [
+        "Addition to BPL list",
+        "Issuing BPL card"
+      ]
+    }
+  ]
+}
